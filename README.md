@@ -1,6 +1,6 @@
-I am an accomplished professional with a Master of Computer Applications (MCA), specializing in the Internet of Things (IoT). With over three years of corporate experience at Tata Group as an Assistant Manager, I have honed my expertise in Software Development Engineer in Test (SDET). My role encompassed end-to-end software testing, automation frameworks, and ensuring the highest standards of software quality.
-<br>
-My technical proficiency spans IoT-based applications, automation testing, and quality assurance methodologies, making me adept at bridging the gap between development and testing. I am passionate about leveraging technology to drive efficiency and innovation in software engineering.
+<p>I am an accomplished professional with a Master of Computer Applications (MCA), specializing in the Internet of Things (IoT). With over three years of corporate experience at Tata Group as an Assistant Manager, I have honed my expertise in Software Development Engineer in Test (SDET). My role encompassed end-to-end software testing, automation frameworks, and ensuring the highest standards of software quality.</p>
+</br>
+<p>My technical proficiency spans IoT-based applications, automation testing, and quality assurance methodologies, making me adept at bridging the gap between development and testing. I am passionate about leveraging technology to drive efficiency and innovation in software engineering.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wanderlust_manic/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-prakash-rao-9747211a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surya164264@gmail.com) 
